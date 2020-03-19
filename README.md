@@ -10,9 +10,9 @@
 
 
 ### Example
-我的博客1: http://www.cnblogs.com/lt1726/
+http://www.xieyufei.com/
 
-我的博客2: http://lutao1726.gitee.io/
+
 
 ![](p1.png)
 
@@ -50,5 +50,5 @@
 ### Package
     * 安装node.js
     * 安装webpack
-    * webpack --config webpack.config.js 即可
+    * npm run build
 
