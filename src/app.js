@@ -7,7 +7,7 @@ var Chuncai = require('./Chuncai');
 $.chuncai = function(option) {
     var defaults = {
         tuling: {
-            key: "2cd919feabf5474ab61504f6af5a71d6",
+            key: "6f16a5dc44f94dff8125244d7f088a73",
             userid: "3b6584a7c9613cfc"
         },
         menu: {
